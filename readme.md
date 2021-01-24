@@ -1,11 +1,10 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# (FordBike Ride Sharing Data Investigation)
+## by (Mustafa Elnaquib)
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
-
+> Dataset lists the data of 183412 trips made by ford GoBike Bike Sharing app, from February 2019.
 
 ## Summary of Findings
 
@@ -14,4 +13,6 @@
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+> nonsubscribers take longer trips on average!
+
+> Although Male rider have higher ride dutations, in range of 60:80 minutes, they had the lowset average among genders.
